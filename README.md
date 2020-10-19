@@ -7,6 +7,10 @@ The year 2020 will certainly be remembered for the COVID-19 outbreak. First repo
 Researchers all around the world are working day and night to counter this pandemic. Researchers of image processing and bio-medical engineering fields are also not left behind.
 Our ensemble model aims to classify the input Chest X-Ray into three classes namely- Community Acquired Pneumonia (CAP), Normal and COVID-19. 
 Our ensemble model aims to classify the input Chest X-Ray into three classes namely- Community Acquired Pneumonia (CAP), Normal and COVID-19. Some of the examples are given in figure 1.
+
+
 ![Figure 1](https://github.com/sagardeepdeb/ensemble-model/blob/main/model.PNG)
 
+
+# Dataset
 The dataset used for the experimentation is used from https://covidresearch.ai/datasets
