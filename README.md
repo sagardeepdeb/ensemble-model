@@ -1,5 +1,5 @@
 # ensemble-model
-The work explained here and the source code presented here is under consideration at International Conference on Emerging Trends in Engineering Science and Technology (ICETEST2020),  IEEE International Conference on Power Instrumentation Control and Computing (PICC 2020).
+The work explained here and the source code presented here is accepted for publication at IEEE International Conference on Power Instrumentation Control and Computing (PICC 2020).
 
 # Ensemble DCNN structure for detection of COVID-19 from Chest X-Ray images
 This notebook will detect COVID-19 from Chest X-Ray images
@@ -11,6 +11,7 @@ Our ensemble model aims to classify the input Chest X-Ray into three classes nam
 
 ![Figure 1](https://github.com/sagardeepdeb/ensemble-model/blob/main/model.PNG)
 
+If you are using the code for your research work please cite our paper https://ieeexplore.ieee.org/document/9362499
 
 # Dataset
 The dataset used for the experimentation is used from https://covidresearch.ai/datasets
