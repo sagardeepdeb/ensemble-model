@@ -11,7 +11,10 @@ Our ensemble model aims to classify the input Chest X-Ray into three classes nam
 
 ![Figure 1](https://github.com/sagardeepdeb/ensemble-model/blob/main/model.PNG)
 
-If you are using the code for your research work please cite our paper https://ieeexplore.ieee.org/document/9362499
+If you are using the code for your research work please cite our paper 
+
+
+S. Deep Deb and R. Kumar Jha, "COVID-19 detection from chest X-Ray images using ensemble of CNN models," 2020 International Conference on Power, Instrumentation, Control and Computing (PICC), Thrissur, India, 2020, pp. 1-5, doi: 10.1109/PICC51425.2020.9362499.
 
 # Dataset
 The dataset used for the experimentation is used from https://covidresearch.ai/datasets
