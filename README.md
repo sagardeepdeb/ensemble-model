@@ -1,5 +1,5 @@
 # ensemble-model
-The work explained here and the source code presented here is accepted for publication at IEEE International Conference on Power Instrumentation Control and Computing (PICC 2020).
+The work explained here and the source code presented here is accepted for publication at IEEE International Conference on Power Instrumentation Control and Computing (PICC 2020) and can be accessed from the given [link] (https://ieeexplore.ieee.org/document/9362499).
 
 # Ensemble DCNN structure for detection of COVID-19 from Chest X-Ray images
 This notebook will detect COVID-19 from Chest X-Ray images
