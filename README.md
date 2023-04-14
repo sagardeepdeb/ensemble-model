@@ -13,8 +13,6 @@ Our ensemble model aims to classify the input Chest X-Ray into three classes nam
 ![Figure 1](https://github.com/sagardeepdeb/ensemble-model/blob/main/model.PNG)
 
 
-The presentation for the paper that waspresented at the conference can be obtained [here](https://github.com/sagardeepdeb/ensemblemodel/blob/main/PICC%20Conference%20Slides.pdf)
-
 If you are using the code for your research work please cite our paper 
 
 
